@@ -1,0 +1,8 @@
+{
+  "name": "Full Remove",
+  "description": "Professional takedown assistance and online content removal for social media platforms. We Won't Leave Anything Behind.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
